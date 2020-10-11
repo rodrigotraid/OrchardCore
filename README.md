@@ -1,4 +1,4 @@
-# Orchard Core 
+# Orchard Core Test
 
 Orchard Core consists of two distinct projects:
 
