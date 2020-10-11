@@ -1,4 +1,4 @@
-# Orchard Core
+# Orchard Cor
 
 Orchard Core consists of two distinct projects:
 
