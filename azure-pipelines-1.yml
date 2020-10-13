@@ -11,11 +11,11 @@ trigger:
 variables:
   buildConfiguration: 'Release'
   location: 'brazisouth'
-  acrHostName: 'cswebappdocker001acr.azurecr.io'
-  acrName: 'cswebappdocker001acr'
-  rgName: 'cswebappdocker001-rg'
-  imageName: 'cswebappdocker001'
-  webAppName: 'cswebappdocker001'
+  acrHostName: 'rodrigosandboxregistry.azurecr.io'
+  acrName: 'rodrigosandboxregistry'
+  rgName: 'RGTestSandbox'
+  imageName: 'OrchardSandbox-img'
+  webAppName: 'OrchardSandboxApp'
 
 stages:
 
